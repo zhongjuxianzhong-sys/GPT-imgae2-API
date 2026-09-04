@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+
+# 本地生成图片与历史
+outputs/
+
+# 临时开发脚本
+work/
