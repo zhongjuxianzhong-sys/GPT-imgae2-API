@@ -111,3 +111,9 @@ curl.exe "http://127.0.0.1:8787/api/generate" `
 
 分发时把 `Image2Studio.exe` 与 `使用说明.txt` 发给使用者即可：双击 exe，浏览器打开
 `http://127.0.0.1:8787`，在页面下方填好自己的提供商地址与 API Key 就能生图。
+
+## 项目规范
+
+- [CHANGELOG.md](CHANGELOG.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [SECURITY.md](SECURITY.md)
