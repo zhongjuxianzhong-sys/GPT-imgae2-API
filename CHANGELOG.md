@@ -9,3 +9,4 @@ and this project does not use semantic versioning yet.
 ### Added
 
 - Project convention files: `.editorconfig`, `.gitattributes`, `CONTRIBUTING.md`, and `SECURITY.md`.
+- MIT License file (`LICENSE`).

@@ -116,4 +116,5 @@ curl.exe "http://127.0.0.1:8787/api/generate" `
 
 - [CHANGELOG.md](CHANGELOG.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
+- [LICENSE](LICENSE)（MIT）
 - [SECURITY.md](SECURITY.md)
